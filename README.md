@@ -1,5 +1,5 @@
 If you want to contact me:\
-thibaut.le.goff27@gmail.com\
+thibaut.le.goff27@gmail.com
 
 My Kaggle profile:\
 https://www.kaggle.com/thibautlegoff
